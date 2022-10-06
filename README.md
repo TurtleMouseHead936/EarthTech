@@ -3,47 +3,47 @@
  <br>&nbsp;This is an efficient concurrent toolkit, if there comes a day when, there is an extraterrestrial civilization that violated the earth, this toolkit it may be useful, even if the efficiency can only be increased by 0.1 seconds, is also a line of defense<br><br>
   <table width="1600" border="0">
      <tr>
-        <td width="420" height="30">this toolkit contains 11 class</td>
+        <td width="560" height="30">this toolkit contains 11 class</td>
         <td></td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.Lock lock = new EarthTech.Lock(false);</td>
+        <td height="30">EarthTech.Lock lock = new EarthTech.Lock(false);</td>
         <td>blockage lock</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.SpinLock lock = new EarthTech.SpinLock();</td>
+        <td height="30">EarthTech.SpinLock lock = new EarthTech.SpinLock();</td>
         <td>spin lock</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.ReentrantSpinLock lock = new EarthTech.ReentrantSpinLock();</td>
+        <td height="30">EarthTech.ReentrantSpinLock lock = new EarthTech.ReentrantSpinLock();</td>
         <td>reentrant spin lock</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.RWLock rwlock = new EarthTech.RWLock(false);</td>
+        <td height="30">EarthTech.RWLock rwlock = new EarthTech.RWLock(false);</td>
         <td>read write lock</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.Semaphore se = new EarthTech.Semaphore(10);</td>
+        <td height="30">EarthTech.Semaphore se = new EarthTech.Semaphore(10);</td>
         <td>semaphore</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.ArrayList list = new EarthTech.ArrayList();</td>
+        <td height="30">EarthTech.ArrayList list = new EarthTech.ArrayList();</td>
         <td>array</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.LinkedList list = new EarthTech.LinkedList();</td>
+        <td height="30">EarthTech.LinkedList list = new EarthTech.LinkedList();</td>
         <td>linked</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.BlockingList list = new EarthTech.BlockingList();</td>
+        <td height="30">EarthTech.BlockingList list = new EarthTech.BlockingList();</td>
         <td>blocked linked list</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.HashMap hm = new EarthTech.HashMap();</td>
+        <td height="30">EarthTech.HashMap hm = new EarthTech.HashMap();</td>
         <td>hashtable</td>
      </tr>
      <tr>
-        <td width="420" height="30">EarthTech.ThreadPool tp = new EarthTech.ThreadPool(100,1000000);</td>
+        <td height="30">EarthTech.ThreadPool tp = new EarthTech.ThreadPool(100,1000000);</td>
         <td>thread pool</td>
      </tr>
   </table>
