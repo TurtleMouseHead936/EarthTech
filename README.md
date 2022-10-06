@@ -3,7 +3,7 @@
  <br>&nbsp;This is an efficient concurrent toolkit, if there comes a day when, there is an extraterrestrial civilization that violated the earth, this toolkit it may be useful, even if the efficiency can only be increased by 0.1 seconds, is also a line of defense<br><br>
   <table width="1600" border="0">
      <tr>
-        <td width="560" height="30">this toolkit contains 11 class</td>
+        <td width="530" height="30">this toolkit contains 11 class</td>
         <td></td>
      </tr>
      <tr>
