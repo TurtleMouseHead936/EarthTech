@@ -1,6 +1,6 @@
 # EarthTech
 ---------------- <b>en|English</b> ----------------
- <br>&nbsp;This is an efficient concurrent toolkit, if one day, extraterrestrial civilization invades the earth, this toolkit may be an attempt by the software layer to fight against extraterrestrial civilization<br>
+ <br>This is an efficient concurrent toolkit, if one day, extraterrestrial civilization invades the earth, this toolkit may be an attempt by the software layer to fight against extraterrestrial civilization<br>
   <table width="1600" border="0">
      <tr>
         <td width="560" height="30">this toolkit contains 11 class</td>
@@ -48,7 +48,7 @@
      </tr>
   </table><br>
   ---------------- <b>zh|中文</b> ----------------
-  <br>&nbsp;这是一款高效的并发工具包, 如果某一天, 有地外文明侵犯地球, 此包也许是软件层对抗外星文明的一种尝试手段<br><br>
+  <br>这是一款高效的并发工具包, 如果某一天, 有地外文明侵犯地球, 此包也许是软件层对抗外星文明的一种尝试手段<br><br>
   <table width="1600" border="0">
      <tr>
         <td width="560" height="30">此工具包共有11个类</td>
