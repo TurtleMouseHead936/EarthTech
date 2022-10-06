@@ -1,4 +1,5 @@
 # EarthTech
+---------------- <b>en|English</b> ----------------
  <br>&nbsp;This is an efficient concurrent toolkit, if there comes a day when, there is an extraterrestrial civilization that violated the earth, this toolkit it may be useful, even if the efficiency can only be increased by 0.1 seconds, is also a line of defense<br><br>
   <table width="600" border="0">
      <tr>
